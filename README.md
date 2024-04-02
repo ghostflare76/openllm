@@ -1,2 +1,2 @@
 # openllm
-llm study
+llm study start
