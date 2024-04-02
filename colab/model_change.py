@@ -5,7 +5,7 @@
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-GOOGLE_API_KEY = ""
+GOOGLE_API_KEY = "AIzaSyAKwlrrPs7Wl_Wqz5t6mCjujxU56HXUgNc"
 
 model = ChatGoogleGenerativeAI(
     model="gemini-pro",  # 사용할 모델을 지정합니다.
